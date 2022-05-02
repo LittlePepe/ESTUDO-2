@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+ /*
+ ID = # / usado 1 vez
+ class = .  / usado mais vezes
+ */
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right, blue, purple, rgb(210, 106, 236));
+    box-shadow: 5px, 5px, 5px, black;
+
+}
+
+main{
+    background-color: aliceblue;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+p{
+    text-align: justify;
+    
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 3em;
+    font-weight: lighter;
+}
